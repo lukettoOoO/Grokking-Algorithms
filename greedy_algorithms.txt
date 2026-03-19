@@ -17,3 +17,11 @@ solution?
 
 For every location I would divide the points by the time it takes to see it and then check
 how many points/hour I would be able to add up by finding the optimal route.
+
+For each of these algorithms, say whether it’s a greedy algorithm or not.
+8.3 Quicksort
+Not greedy
+8.4 Breadth-first search
+Not greedy
+8.5 Dijkstra’s algorithm
+Greedy
