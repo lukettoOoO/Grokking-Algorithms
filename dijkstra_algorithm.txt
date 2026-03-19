@@ -1,6 +1,6 @@
 7.1 In each of these graphs, what is the weight of the shortest path from
 start to finish?
-A.
+A. 8
             5             4
     (START) ----> (N1) ------> (N2) 
        \           ^  \         |  \ 3
@@ -8,13 +8,13 @@ A.
          v         |    v       v    v
         (N3) ----------> (N4) -----> (FINISH)
                  7              1
-B.
+B. 60
                 10            20            30
       (START) ----> (N1)  ------> (N2)  ------> (FINISH)
                      ^           /
                     1 \         / 1
                        \-- (N3) <
-C.
+C. 6
                 2             2
         (START) ----> (N1)  ------> (N2)
            \          /  \             \ 2
