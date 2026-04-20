@@ -17,3 +17,11 @@ higher the value, the more important the item is:
 What’s the optimal set of items to take on your camping trip?
 
 Water, Food, Camera
+
+9.3 Draw and fill in the grid to calculate the longest common substring
+between blue and clues.
+    C	L	U	E	S
+B	0.  0.  0.  0.  0				
+L	0.  1.  0.  0.  0				
+U	0.  0.  2.  0.  0				
+E.  0.  0.  0.  3.  0
