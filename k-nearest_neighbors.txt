@@ -18,3 +18,9 @@ ratings of influencers?
 I would add a bias to their rating.
 If an influencer would rate a film as 4, I would add 4+4+4+4.
 If a regular user would rate a film as 4, I would add 4+0.
+
+10.3 Netflix has millions of users. The earlier example looked at the five
+closest neighbors for building the recommendations system. Is this
+too low? Too high?
+
+It is definitely too low. We would have to look at thousands of users to build a good recommendations system.
